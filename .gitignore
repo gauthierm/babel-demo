@@ -1,0 +1,6 @@
+# dependencies
+node_modules
+
+# Babel build output
+dist
+/tmp
